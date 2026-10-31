@@ -1,0 +1,6 @@
+{
+  "name": "Campus Event Registration System",
+  "description": "Discover campus events, register seamlessly, manage attendee tickets, and administer college activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
